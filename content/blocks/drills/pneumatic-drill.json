@@ -6,6 +6,7 @@ consumes:{
     booster:false
   }
 }
+liquidBoostIntensity:0
 requirements:[
   stone/20
   copper/20
